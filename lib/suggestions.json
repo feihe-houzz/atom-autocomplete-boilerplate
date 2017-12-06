@@ -2,21 +2,25 @@
   {
     "displayText": "@connect",
     "snippet": "@connect(\"${1:someResolver}\", (obj) => { return {}})",
-    "description": "Connect with another object"
+    "description": "Connect with another object",
+    "icon": "icon-link"
   },
   {
     "displayText": "@plural",
     "snippet": "@plural(\"${1:somePluralResolver}\", (obj) => { return {}})",
-    "description": "Connect via sister plural resolver"
+    "description": "Connect via sister plural resolver",
+    "icon": "icon-link"
   },
   {
     "displayText": "@service",
     "snippet": "@service(\"${1:someService}\")",
-    "description": "Get instance of a thrift service"
+    "description": "Get instance of a thrift service",
+    "icon": "icon-rocket"
   },
   {
     "displayText": "@batch",
     "snippet": "@batch(\"${1:someIds}\")",
-    "description": "Batch for array of inputs"
+    "description": "Batch for array of inputs",
+    "icon": "icon-three-bars"
   }
 ]
