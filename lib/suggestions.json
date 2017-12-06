@@ -1,0 +1,22 @@
+[
+  {
+    "displayText": "@connect",
+    "snippet": "@connect(\"${1:someResolver}\", (obj) => { return {}})",
+    "description": "Connect with another object"
+  },
+  {
+    "displayText": "@plural",
+    "snippet": "@plural(\"${1:somePluralResolver}\", (obj) => { return {}})",
+    "description": "Connect via sister plural resolver"
+  },
+  {
+    "displayText": "@service",
+    "snippet": "@service(\"${1:someService}\")",
+    "description": "Get instance of a thrift service"
+  },
+  {
+    "displayText": "@batch",
+    "snippet": "@batch(\"${1:someIds}\")",
+    "description": "Batch for array of inputs"
+  }
+]
