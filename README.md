@@ -1,12 +1,8 @@
-# atom-autocomplete-boilerplate
-
-Boilerplate package for creating your own custom autocomplete provider for Atom.
+# graphql-annotation-autocomplete
+Atom package to autocomplete graphql annotations
 
 ## Introduction
-
-This package is **not meant to be used directly**. It's a sample package that you can build upon to quickly create a custom autocomplete plug-in for Atom.
-
-This README contains only basic installation steps. For the full tutorial, **please read [Creating an Autocomplete Plug-In for Atom](http://codersblock.com/blog/creating-an-autocomplete-plug-in-for-atom/)**.
+TBD
 
 ## Installation
 
@@ -21,6 +17,6 @@ Atom provides a built-in way to download and install packages, but for local dev
     - On Mac, you'll find it under Atom &gt; Preferences... &gt; Packages &gt; Community Packages.
     - On Windows, you'll find it under File &gt; Settings &gt; Packages &gt; Community Packages.
 
-Don't forget to reload Atom when you make changes!
+Don't forget to reload Atom when you make changes when developing this plugin!
 - On Mac, hit `ctrl` + `option` + `command` + `L`.
 - On Windows, hit `ctrl` + `shift` + `F5`.
